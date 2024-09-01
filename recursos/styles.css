@@ -1,0 +1,31 @@
+body {
+    font-family: 'Century Gothic', sans-serif;
+    text-align: center;
+    padding: 50px;
+    background-color: #0F0021;
+    color: #FFFFFF;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+p {
+    color: #D3D3D3;
+}
+
+.download-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+    background-color: #0056b3;
+}
